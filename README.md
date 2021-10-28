@@ -1,7 +1,7 @@
 ### Hello World 💻 👋
 
 
-- 🔭 I’m currently working on my GSoC project @Zulip
+- 🔭 I’m currently studying Dictionary Learning.
 - 💬 Ask me about: Animes 😁
 - 📫 How to reach me: <akshat.dak@students.iiit.ac.in>
 - 🧑‍🎨 I like sketching 😄.
