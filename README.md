@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying Dictionary Learning.
 - 💬 Ask me about: Animes 😁
-- 📫 How to reach me: <akshat.dak@students.iiit.ac.in>
+- 📫 How to reach me: <akshat25iiit@gmail.com>
 - 🧑‍🎨 I like sketching 😄.
 
 <a href="https://github.com/akshatdalton/akshatdalton">
