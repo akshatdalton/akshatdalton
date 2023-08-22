@@ -1,7 +1,7 @@
 ### Hello World 💻 👋
 
 
-- 🔭 I’m currently studying Dictionary Learning.
+- 🔭 MTS @markovml.
 - 💬 Ask me about: Animes 😁
 - 📫 How to reach me: <akshat25iiit@gmail.com>
 - 🧑‍🎨 I like sketching 😄.
